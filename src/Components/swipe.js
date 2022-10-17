@@ -6,18 +6,17 @@ import { TheContext } from "../context";
 import "./swipe.css";
 
 export default function Swipe() {
-  const [index, setIndex] = useState(0);
-  const { newsList, setViewed, viewedList } = useContext(TheContext);
-
-  const handleSelect = (selectedIndex, e) => {
-    setIndex(selectedIndex);
-
-    viewedList.add(selectedIndex);
-  };
+  const { newsList, markRead, selectNewsIndex, setSelectNewsIndex } =
+    useContext(TheContext);
 
   useEffect(() => {
-    console.log(viewedList);
-  });
+    if (newsList.length > 0) markRead(0);
+  }, [newsList]);
+
+  const handleSelect = (selectedIndex, e) => {
+    setSelectNewsIndex(selectedIndex);
+    markRead(selectedIndex);
+  };
 
   const options = {
     year: "numeric",
@@ -30,13 +29,16 @@ export default function Swipe() {
   return (
     <Grid
       container
-      // spacing={0}
       direction="column"
       alignItems="center"
       justifyContent="center"
       style={{ minHeight: "70vh" }}
     >
-      <Carousel activeIndex={index} onSelect={handleSelect} interval={null}>
+      <Carousel
+        activeIndex={selectNewsIndex}
+        onSelect={handleSelect}
+        interval={null}
+      >
         {newsList.map((news) => {
           return (
             <Carousel.Item key={news.id}>
