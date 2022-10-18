@@ -83,7 +83,7 @@ export default function Swipe() {
       </Carousel>
       <Box>
         <Typography variant="h6" align="center">
-          Mark Unread All
+          Mark All Unread
         </Typography>
         <Box
           sx={{
