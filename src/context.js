@@ -47,8 +47,8 @@ function TheContextProvider(props) {
 
     const sortedNewsList = [...readNews, ...unreadNews];
     setNewsList(sortedNewsList);
-    const newListIds = sortedNewsList.map((e) => e.id);
-    console.log("newsList:", newListIds);
+    // const newListIds = sortedNewsList.map((e) => e.id);
+    // console.log("newsList:", newListIds);
     setSelectNewsIndex(readNews.length);
   }, []);
 

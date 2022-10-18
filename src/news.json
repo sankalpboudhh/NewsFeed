@@ -1,67 +1,86 @@
 [
     {
         "id": 1,
-        "title": "title 1",
-        "photo": "https://images.freeimages.com/images/large-previews/106/photographer-1464286.jpg",
+        "title": "Manish Sisodia Alleges He Was Pressured To Quit AAP, CBI Responds ",
+        "News": "Delhi's Deputy Chief Minister Manish Sisodia has left the office of the Central Bureau of Investigation after nearly nine hours of questioning in the liquor policy case. He has not been called for...",
+        "photo": "https://c.ndtvimg.com/2022-10/2ekgpug4_manish-sisodia-650_625x300_06_October_22.jpg ",
         "subtitle": "subtitle 1",
-        "publishedDate" :"2022-07-07T08:00:00+05:30"
+        "publishedDate" :"2022-07-07T08:00:00+05:30",
+        "author": "Author 1"
     },
     {
         "id": 2,
-        "title": "title 2",
-        "photo": "https://images.freeimages.com/images/large-previews/106/photographer-1464286.jpg",
+        "title": "Centre Approved Bilkis Bano Rapists' Release, Gujarat Tells Supreme Court",
+        "News":"The 11 men convicted for the gang rape of Bilkis Bano during the 2002 Gujarat riots were released as they had been in jail for 14 years and their behaviour was found to be good, the Gujarat government...",
+        "photo": " https://c.ndtvimg.com/2022-08/6v3e9to4_bilkis-bano-afp-650_625x300_17_August_22.jpg ",
         "subtitle": "subtitle 2",
-        "publishedDate" :"2022-07-07T08:00:00+05:30"
+        "publishedDate" :"2022-07-07T08:00:00+05:30",
+        "author":"Author 2"
     },
     {
         "id": 3,
-        "title": "title 3",
-        "photo": "https://images.freeimages.com/images/large-previews/106/photographer-1464286.jpg",
+        "title": "Somebody May Have Told Her...: P Chidambaram Jabs N Sitharaman On Rupee" ,
+        "News":" Former Finance Minister and Congress leader P Chidambaram has punched holes in Finance Minister Nirmala Sitharaman's theory that the rupee has not weakened but it is the dollar that has strengthened. ",
+        "photo": "https://c.ndtvimg.com/2020-01/28okc29g_p-chidambaram-pti-_625x300_21_January_20.jpg",
+        
         "subtitle": "subtitle 3",
-        "publishedDate" :"2022-07-09T22:00:00+05:30"
+        "publishedDate" :"2022-07-09T22:00:00+05:30",
+        "author":"Author 3"
     
     },
     {
         "id": 4,
-        "title": "title 4",
-        "photo": "https://images.freeimages.com/images/large-previews/106/photographer-1464286.jpg",
+        "title": "PM Called Putin, Zelensky, Said \"Our Children Stuck\": S Jaishankar Recalls  ",
+        "News":"External Affairs Minister S Jaishankar on Monday recalled a story at a Gujarat event and said Prime Minister Narendra Modi had made a call to leaders of Russia and Ukraine to secure assurances for the...",
+        "photo": "https://c.ndtvimg.com/2022-09/4upufqvg_s-jaishankar_625x300_27_September_22.jpg",
         "subtitle": "subtitle 4",
-        "publishedDate" :"2022-07-09T22:00:00+05:30"
+        "publishedDate" :"2022-07-09T22:00:00+05:30",
+        "author":"Author 4"
     },
     {
         "id": 5,
-        "title": "title 5",
-        "photo": "https://images.freeimages.com/images/large-previews/106/photographer-1464286.jpg",
+        "title": "Viral: This Artist's Realistic Food Paintings Are A Hit With Food Lovers ",
+        "News":"An artist duo from Pune is going viral on the internet, thanks to the realistic food paintings that they are showing on Instagram. ",
+        "photo": "https://c.ndtvimg.com/2022-10/bo874bj8_food-painting_625x300_17_October_22.jpg",
         "subtitle": "subtitle 5",
-        "publishedDate" :"2022-07-10T15:00:00+05:30"
+        "publishedDate" :"2022-07-10T15:00:00+05:30",
+        "author":"Author 5"
     },
     {
         "id": 6,
-        "title": "title 6",
-        "photo": "https://images.freeimages.com/images/large-previews/106/photographer-1464286.jpg",
+        "title": "Jyothi Yarraji Becomes First Indian Woman Hurdler To Break 13-sec Barrier",
+        "photo": "https://c.ndtvimg.com/2022-08/9rq4js5o_jyothi-yarraji-afp_625x300_05_August_22.jpg",
+        "News": "The 23-year-old Yarraji, representing Railways, cruised to victory in 12.82 seconds and, with the wind gauge reading 0.9m/s, she could not be denied her national record timing a second time",
         "subtitle": "subtitle 6",
-        "publishedDate" :"2022-07-10T18:00:00+05:30"
+        "publishedDate" :"2022-07-10T18:00:00+05:30",
+        "author":"Author 6"
     },
     {
         "id": 7,
-        "title": "title 7",
-        "photo": "https://images.freeimages.com/images/large-previews/106/photographer-1464286.jpg",
+        "title": "Neymar Trial Opens In Barcelona Ahead Of World Cup ",
+       "News": "With the World Cup barely a month away, Brazilian superstar Neymar goes on trial in Spain Monday over alleged irregularities in his transfer to Barcelona nearly a decade ago. ",
+        "photo": "https://c.ndtvimg.com/2022-10/j5gngvo8_neymar-afp_625x300_17_October_22.jpg",
         "subtitle": "subtitle 7",
-        "publishedDate" :"2022-07-11T08:00:00+05:30"
+        "publishedDate" :"2022-07-11T08:00:00+05:30",
+        "author":"Author 7"
     },
     {
         "id": 8,
-        "title": "title 8",
-        "photo": "https://images.freeimages.com/images/large-previews/106/photographer-1464286.jpg",
+        "title": "Denmark Open: Indian Shuttlers Up For Tough Challenge In PV Sindhu's Absence",
+        "News":"Sindhu is on her path to recovery after sustaining an ankle injury during her gold medal winning campaign at the Commonwealth Games",
+        "photo": "https://c.ndtvimg.com/2022-08/lflellso_pv-sindhu-afp_640x480_13_August_22.jpg",
         "subtitle": "subtitle 8",
-        "publishedDate" :"2022-07-13T10:00:00+05:30"
+        "publishedDate" :"2022-07-13T10:00:00+05:30",
+        "author":"Author 8"
     },
     {
         "id": 9,
-        "title": "title 9",
-        "photo": "https://images.freeimages.com/images/large-previews/106/photographer-1464286.jpg",
+        "title": "India Lose 0-5 To Brazil, End FIFA U-17 Women's World Cup Campaign ",
+        "News" : "Debutants India, who had qualified for the age-group showpiece by virtue of being hosts, had lost to USA (0-8) and Morocco (0-3) in their earlier Group A matches ",
+        "photo": "https://c.ndtvimg.com/2022-10/chfkb9pg_india-brazil_625x300_17_October_22.jpg",
         "subtitle": "subtitle 9",
-        "publishedDate" :"2012-07-14T11:00:00+05:30"   
+        "publishedDate" :"2012-07-14T11:00:00+05:30",
+        "author":"Author 9"
     }
 ]
 
