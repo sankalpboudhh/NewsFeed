@@ -10,7 +10,7 @@ export default function Swipe() {
     useContext(TheContext);
 
   useEffect(() => {
-    if (newsList.length > 0) markRead(0);
+    if (newsList.length > 0) markRead(selectNewsIndex);
   }, [newsList]);
 
   const handleSelect = (selectedIndex, e) => {
